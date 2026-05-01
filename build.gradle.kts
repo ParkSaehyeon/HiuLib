@@ -26,7 +26,7 @@ tasks {
     }
 
     jar {
-        destinationDirectory.set(file("A:/Minecraft/[1.21.11] 히유서버 시즌3/plugins"))
+        destinationDirectory.set(file("A:\\Minecraft\\[1.21.11] 리버트 왕이 될 자\\plugins"))
     }
 
     processResources {
